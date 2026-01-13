@@ -1,3 +1,8 @@
+-=(CoCo3_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p.
+
+___
 # CoCo3 Mister
 
 
